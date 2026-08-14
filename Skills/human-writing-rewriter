@@ -1,0 +1,707 @@
+---
+name: human-writing-rewriter
+description: Rewrite provided text so it sounds natural, human, clear, and intentional while preserving the original meaning, facts, structure, and purpose. Use this skill whenever text needs to feel less mechanical, formulaic, repetitive, or AI-generated.
+version: 2.0.0
+---
+
+# Human Writing Rewriter
+
+## Purpose
+
+Transform the user's text into writing that feels naturally written by a thoughtful human.
+
+The rewrite must preserve the original meaning, facts, intent, important details, and required structure while improving naturalness, clarity, rhythm, and readability.
+
+The goal is not to make the text artificially casual. The goal is to remove mechanical writing patterns and produce confident, authentic prose appropriate to the context.
+
+---
+
+## Core Principles
+
+Claude MUST follow these principles:
+
+1. Preserve meaning before improving style.
+2. Write for human readers, not algorithms.
+3. Prefer natural language over formulaic language.
+4. Use specific wording instead of vague abstractions.
+5. Vary sentence length and structure naturally.
+6. Remove unnecessary repetition.
+7. Use active voice whenever it improves clarity.
+8. Keep the author's intended tone and purpose.
+9. Do not introduce facts, opinions, examples, or conclusions that were not present in the source.
+10. Do not make every sentence equally polished or structurally predictable.
+11. Avoid mechanical transitions and predictable paragraph patterns.
+12. Make every sentence sound intentional and contextually appropriate.
+
+---
+
+## Input Requirements
+
+The user may provide:
+
+- An article
+- A paragraph
+- A report
+- A script
+- A social-media post
+- A professional document
+- Academic or educational content
+- Technical writing
+- Marketing copy
+- News-style writing
+- AI-generated text
+- Rough notes
+- A complete document
+- A partial passage
+
+The user may also specify:
+
+- Target audience
+- Tone
+- Reading level
+- Length
+- Platform
+- Industry
+- Writing style
+- Formatting requirements
+- Degree of rewriting
+
+If the user provides additional instructions, follow them unless they conflict with this skill's preservation requirements.
+
+---
+
+## Workflow
+
+### Step 1: Analyze
+
+Before rewriting, identify:
+
+- The author's intended meaning
+- The central message
+- The target audience
+- The purpose of the text
+- The existing tone
+- The paragraph structure
+- Important facts and details
+- Technical terminology
+- Numbers and dates
+- Examples
+- Claims
+- Quotations
+- Repeated ideas
+- Awkward or unnatural phrasing
+- Formulaic or mechanical language
+- Excessive transitions
+- Generic introductory statements
+- Repetitive sentence patterns
+
+Do not rewrite merely by replacing individual words.
+
+Understand the passage first.
+
+---
+
+### Step 2: Detect Mechanical Writing Patterns
+
+Look specifically for patterns that make writing feel artificial, including:
+
+- Repeated sentence structures
+- Uniform sentence length
+- Excessive use of transition words
+- Predictable paragraph openings
+- Generic conclusions
+- Overuse of words such as "however," "moreover," "furthermore," and "additionally"
+- Empty introductory phrases
+- Excessive hedging
+- Repetitive summaries
+- Unnecessary restatement of the main point
+- Overly formal vocabulary
+- Corporate jargon
+- Abstract nouns replacing simple verbs
+- Excessive passive voice
+- Artificially balanced sentences
+- Formulaic "not only... but also..." constructions
+- Excessive use of em dashes
+- Excessive parenthetical explanations
+- Generic claims about importance or significance
+- Unnatural enthusiasm
+- Repetitive adjectives
+- Overly symmetrical paragraphs
+- Sentences that contain more words than necessary
+- Language that sounds optimized rather than written
+
+Treat these as signals to investigate, not as automatic reasons to rewrite everything.
+
+---
+
+### Step 3: Plan
+
+Create an internal rewriting strategy.
+
+Determine:
+
+1. What must remain unchanged.
+2. What should be rewritten.
+3. What can be shortened.
+4. What needs clearer wording.
+5. Where sentence structures should vary.
+6. Where transitions should be removed or simplified.
+7. Where paragraphs need stronger flow.
+8. Where the original voice should be preserved.
+
+Do not expose this internal planning process unless the user explicitly asks for an analysis.
+
+---
+
+### Step 4: Rewrite
+
+Rewrite the text as naturally as possible.
+
+#### Natural Sentence Construction
+
+Use a mixture of:
+
+- Short sentences
+- Medium-length sentences
+- Longer sentences when the idea genuinely requires them
+- Simple declarative statements
+- Carefully connected sentences
+- Occasional fragments when appropriate to the medium
+
+Do not force variation mechanically.
+
+Sentence variation must emerge naturally from the meaning.
+
+#### Natural Vocabulary
+
+Prefer familiar, precise words when they communicate the idea better.
+
+Examples:
+
+- "utilize" → "use"
+- "commence" → "start"
+- "facilitate" → "help"
+- "demonstrate the ability to" → "can"
+- "in order to" → "to"
+
+Do not simplify terminology when technical precision requires the original term.
+
+#### Natural Rhythm
+
+Avoid giving every sentence the same cadence.
+
+Allow paragraphs to breathe.
+
+A strong paragraph may contain:
+
+- A direct statement.
+- A supporting explanation.
+- A shorter sentence for emphasis.
+- A more detailed sentence where necessary.
+
+Do not manufacture this pattern in every paragraph.
+
+#### Natural Transitions
+
+Use transitions only when they improve logical flow.
+
+Prefer:
+
+> The problem is simple.
+
+over:
+
+> However, it is important to note that there is a significant problem that must be considered.
+
+Use natural connections between ideas rather than inserting transition words simply to make paragraphs appear connected.
+
+#### Natural Emphasis
+
+Use emphasis sparingly.
+
+Do not make every sentence sound important.
+
+Strong writing allows important ideas to stand out because surrounding sentences are straightforward.
+
+---
+
+## Humanization Rules
+
+### Rule 1: Remove Generic Openings
+
+Avoid openings such as:
+
+- "In today's rapidly evolving world..."
+- "In the ever-changing landscape of..."
+- "It is important to note that..."
+- "In this article, we will explore..."
+- "As technology continues to evolve..."
+- "In conclusion, it is clear that..."
+
+Replace them with a direct beginning that gets to the point.
+
+---
+
+### Rule 2: Replace Abstract Language
+
+Prefer concrete verbs and nouns.
+
+Instead of:
+
+> The implementation of the system facilitates improvements in productivity.
+
+Prefer:
+
+> The system can improve productivity.
+
+---
+
+### Rule 3: Vary Sentence Patterns
+
+Do not repeatedly use:
+
+> Subject + verb + object.
+
+Mix structures naturally without making the variation obvious.
+
+---
+
+### Rule 4: Eliminate Redundancy
+
+Remove repeated ideas, unnecessary qualifiers, and sentences that merely restate what the reader already understands.
+
+Do not remove repetition when it is intentional for emphasis, rhythm, or clarity.
+
+---
+
+### Rule 5: Avoid Artificial Perfection
+
+Do not make every sentence sound polished in exactly the same way.
+
+Human writing can be:
+
+- Direct
+- Uneven in rhythm
+- Conversational when appropriate
+- Precise
+- Economical
+- Occasionally emphatic
+
+Natural writing is not synonymous with flawless symmetry.
+
+---
+
+### Rule 6: Preserve Voice
+
+Do not replace the author's personality with a generic "professional AI" voice.
+
+Preserve:
+
+- Attitude
+- Confidence
+- Emotional restraint
+- Humor
+- Directness
+- Formality
+- Perspective
+- Technical depth
+
+Improve the expression without erasing the author's identity.
+
+---
+
+### Rule 7: Use Context-Appropriate Language
+
+Human writing changes according to context.
+
+A technical report, news article, YouTube script, academic explanation, social post, and personal message should not sound identical.
+
+Adapt the language to the medium while preserving the user's requested style.
+
+---
+
+### Rule 8: Prefer Concrete Statements
+
+Whenever the source provides a concrete fact, example, number, action, or consequence, preserve it.
+
+Do not replace specific information with vague language.
+
+---
+
+### Rule 9: Avoid Excessive Hedging
+
+Remove unnecessary phrases such as:
+
+- "It could potentially be argued that..."
+- "It is worth noting that..."
+- "One might perhaps suggest..."
+- "It may be possible that..."
+
+when the source does not require uncertainty.
+
+Do not remove legitimate uncertainty from factual or scientific statements.
+
+---
+
+### Rule 10: Make Transitions Earn Their Place
+
+Every transition must serve a purpose.
+
+If two sentences already connect naturally, do not insert a transition word.
+
+---
+
+## Content Preservation
+
+The rewrite MUST preserve:
+
+- Facts
+- Numbers
+- Dates
+- Names
+- Technical concepts
+- Claims
+- Qualifications
+- Examples
+- Citations
+- References
+- Logical relationships
+- Intended conclusions
+- Important distinctions
+- User-specified terminology
+
+Do not:
+
+- Invent facts
+- Add statistics
+- Add examples
+- Change conclusions
+- Strengthen weak claims
+- Weaken strong claims
+- Alter numerical information
+- Change the author's position
+- Attribute information to new sources
+
+If the original text contains an apparent factual error, do not silently correct it unless the user explicitly asks for fact-checking.
+
+---
+
+## Style Requirements
+
+The final text should generally be:
+
+- Natural
+- Clear
+- Specific
+- Direct
+- Readable
+- Context-aware
+- Varied in rhythm
+- Economical
+- Confident without being exaggerated
+
+Use active voice where appropriate.
+
+Use contractions when the target context permits them.
+
+Use conversational phrasing only when appropriate.
+
+Do not force slang, casual expressions, jokes, or personality into formal writing.
+
+---
+
+## Formatting Requirements
+
+Preserve the original formatting unless the user requests a different format.
+
+Preserve:
+
+- Headings
+- Paragraph order
+- Lists
+- Tables
+- Numbering
+- Quotation structure
+- Markdown
+- Line breaks
+- Section hierarchy
+
+Do not convert paragraphs into bullet points unless requested.
+
+Do not add decorative formatting.
+
+Do not add emojis unless requested.
+
+---
+
+## Prohibited Content
+
+Do not add:
+
+- New facts
+- Fabricated examples
+- Unsupported claims
+- Fake citations
+- Invented quotations
+- Personal opinions
+- Conclusions absent from the source
+- Promotional language not present in the original
+- Artificial enthusiasm
+- Generic filler
+- AI-related disclaimers
+- Commentary about the rewriting process
+
+Do not mention that the text was rewritten.
+
+Do not claim that the result is "undetectable as AI."
+
+---
+
+## Banned Words and Phrases
+
+Avoid these expressions when they do not serve a genuine contextual purpose:
+
+- In today's rapidly changing world
+- In the ever-evolving landscape
+- It is important to note
+- It is worth noting
+- Furthermore
+- Moreover
+- Additionally
+- In conclusion
+- In summary
+- Delve into
+- Dive into
+- Unlock
+- Unleash
+- Harness
+- Revolutionize
+- Transformative
+- Game-changing
+- Cutting-edge
+- Groundbreaking
+- Seamless
+- Robust
+- Comprehensive
+- Multifaceted
+- Intricate
+- Underscores
+- Highlights the importance of
+- At the end of the day
+- In the realm of
+- When it comes to
+- A testament to
+- Plays a crucial role
+- Offers a unique opportunity
+- Take a closer look
+- Let's explore
+- It goes without saying
+- Needless to say
+
+These are not forbidden when they are genuinely necessary. The objective is to prevent habitual, formulaic usage.
+
+---
+
+## Edge Cases
+
+### Missing Information
+
+Do not invent missing information.
+
+Preserve the gap or rewrite around it naturally.
+
+### Ambiguous Information
+
+Preserve the ambiguity unless clarification is explicitly requested.
+
+Do not resolve uncertainty through assumption.
+
+### Technical Terminology
+
+Keep technically accurate terminology.
+
+Do not replace specialized terms merely to make the writing sound more conversational.
+
+Explain a technical term only when the source already explains it or the user requests explanation.
+
+### Numbers and Dates
+
+Preserve numbers, measurements, percentages, currencies, dates, and statistical information exactly unless the user explicitly requests conversion or correction.
+
+### Quotations
+
+Preserve quotations accurately.
+
+Do not rewrite quoted material unless the user explicitly asks for the quotation itself to be rewritten.
+
+### Lists
+
+Preserve list structure when it contributes to organization or meaning.
+
+Do not turn every series of ideas into bullet points.
+
+### Tables
+
+Preserve table structure and cell meaning.
+
+Do not alter numerical or factual content.
+
+### Long Sentences
+
+Break long sentences when doing so improves clarity.
+
+Do not automatically split every long sentence.
+
+Some complex ideas require longer sentences.
+
+### Repetition
+
+Remove accidental repetition.
+
+Keep deliberate repetition when it contributes to emphasis, rhetoric, rhythm, or meaning.
+
+### Strong Original Voice
+
+If the source has a distinctive voice, preserve it.
+
+Do not flatten unusual but intentional phrasing simply because it differs from generic professional writing.
+
+---
+
+## Advanced Humanization Pass
+
+After completing the first rewrite, perform a second internal pass.
+
+### Naturalness
+
+Ask:
+
+- Would a competent human actually phrase this sentence this way?
+- Does the sentence sound written for a reader rather than generated from a template?
+- Are any phrases unnecessarily formal?
+
+### Rhythm
+
+Ask:
+
+- Are too many sentences approximately the same length?
+- Do several consecutive sentences begin the same way?
+- Does the paragraph have a natural cadence?
+
+### Specificity
+
+Ask:
+
+- Is the language concrete where it can be?
+- Have vague abstractions replaced useful details?
+
+### Flow
+
+Ask:
+
+- Do ideas connect naturally?
+- Are transitions necessary?
+- Does every paragraph move the argument forward?
+
+### Voice
+
+Ask:
+
+- Does the author's intended personality remain?
+- Does the writing sound appropriate for its audience?
+
+### Economy
+
+Ask:
+
+- Can any sentence be shortened without losing meaning?
+- Is any idea repeated unnecessarily?
+
+Remove anything that sounds like filler.
+
+---
+
+## Anti-Formulaic Check
+
+Before finalizing, scan for patterns such as:
+
+- Repeated sentence openings
+- Repeated paragraph structures
+- Excessive transition words
+- Identical sentence lengths
+- Generic introductions
+- Generic conclusions
+- Repeated adjectives
+- Repeated rhetorical structures
+- Excessive "not only... but also..."
+- Excessive em dashes
+- Excessive colon usage
+- Artificially balanced statements
+- Repeated phrases
+- Unnecessary summaries
+- Corporate jargon
+- Inflated vocabulary
+
+Rewrite only the sections that exhibit these problems.
+
+Do not introduce artificial variation simply to pass this check.
+
+---
+
+## Quality-Control Checklist
+
+Before producing the final answer, verify:
+
+- [ ] Meaning is preserved.
+- [ ] Facts are preserved.
+- [ ] Numbers and dates are preserved.
+- [ ] Structure is preserved.
+- [ ] Important terminology is preserved.
+- [ ] No unsupported information was added.
+- [ ] No conclusions were invented.
+- [ ] The author's intended voice remains.
+- [ ] Sentence lengths vary naturally.
+- [ ] Sentence structures vary naturally.
+- [ ] Transitions are purposeful.
+- [ ] Redundancy has been removed.
+- [ ] Generic filler has been removed.
+- [ ] Artificially formal language has been reduced.
+- [ ] Unnecessary jargon has been removed.
+- [ ] Technical precision has been preserved.
+- [ ] The text reads smoothly aloud.
+- [ ] The writing feels natural for its context.
+- [ ] Formatting requirements are satisfied.
+- [ ] Banned expressions have been removed where unnecessary.
+- [ ] No claim of "AI detection avoidance" has been made.
+- [ ] No rewriting commentary has been added.
+
+---
+
+## Output Rules
+
+Return only the rewritten text unless the user explicitly requests analysis, explanations, comparisons, or commentary.
+
+Do not provide:
+
+- A preface
+- A summary of changes
+- A list of improvements
+- An explanation of the rewriting process
+- A disclaimer
+- A statement about AI detection
+
+The output should be immediately usable.
+
+---
+
+## Operating Principle
+
+> Rewrite for human communication, not for the appearance of human communication.
+
+Preserve the author's meaning and voice.
+
+Remove mechanical patterns.
+
+Use natural vocabulary, varied rhythm, concrete language, purposeful transitions, and context-appropriate phrasing.
+
+The final result should feel like a person carefully wrote and revised it—not like a machine applied a collection of "humanizing" tricks.
