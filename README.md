@@ -23,7 +23,7 @@ My work covers the rapidly evolving AI ecosystem, including:
 - ⚡ **AI Productivity** — Finding practical ways to use AI to automate, organize, accelerate, and improve everyday work.
 - 🛠️ **AI Tools** — Testing emerging AI applications and identifying where they provide genuine value.
 
-## The PrompttMe Philosophy
+## The Prompt2me Philosophy
 
 I believe AI is more than a collection of powerful models and applications. Its real value comes from **how effectively we design the interaction between humans, models, tools, knowledge, and workflows**.
 
