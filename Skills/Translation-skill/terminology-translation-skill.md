@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/prompt2me/prompt2me/main/Skills/Translation-skill/Images/terminology-skill.png" alt="Technical writing: Technical design">
 
 # Terminology Stability Skill
-
+<a href="https://github.com/prompt2me/prompt2me/blob/main/Skills/Translation-skill/terminology-stability-Translation.md" style="color: green;"> ▪︎ Terminology Stability Translation Skill</a>
 ## Overview
 
 This skill helps Claude generate text with stable terminology across long outputs, repeated revisions, localization tasks, and marketing or documentation workflows.
