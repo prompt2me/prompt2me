@@ -326,4 +326,4 @@ Validation:        [status]
 
 ## Reference Files
 
-- `references/REFERENCE.md` — Full lookup tables for: data quality audit, metric formulas by domain, visualization selection and rejection rules, motion design system, accessibility standards, anti-pattern detection, dashboard density scoring, narrative quality scoring, and the complete QA checklist.
+- [references/REFERENCE.md](https://github.com/prompt2me/prompt2me/blob/main/Skills/Skills-data/reference-skill-visualistion.md) — Full lookup tables for: data quality audit, metric formulas by domain, visualization selection and rejection rules, motion design system, accessibility standards, anti-pattern detection, dashboard density scoring, narrative quality scoring, and the complete QA checklist.
