@@ -1,5 +1,11 @@
 # Essay-Driven-Online-Publishing Skill
 
+## Overview
+
+The **Essay-Driven Online Publishing** skill provides a complete framework for researching, structuring, and writing original long-form essays built around a single, defensible central idea. Rather than surveying broad topics, it guides the writer to investigate a specific question or contradiction, examine conventional assumptions fairly, develop a precise argument through visible logical steps, test that argument against concrete examples and the strongest possible objection, and arrive at a refined conclusion with practical or intellectual implications.
+
+The skill emphasizes intellectual independence, conversational clarity, and evergreen relevance over trend-chasing. It enforces strict originality boundaries—no imitation of any identifiable writer's signature style, phrases, or frameworks—while offering practical workflows, argument maps, quality checklists, and publication-ready output formats for subjects ranging from technology and business to philosophy and culture.
+
 # Table of contents 
 
 - [Purpose](#purpose)
