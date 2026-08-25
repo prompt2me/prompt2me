@@ -195,8 +195,8 @@ Further reading / Visual suggestion / Alt text
 
 ## Reference Files
 
-- [essay-architecture.md](https://github.com/prompt2me/prompt2me/blob/main/Skills/Writing-skills/Essay-Driven-Online-Publishing/essay-architecture.md?download=1) — Full structural templates, opening patterns, thesis development, paragraph design, metaphor protocol, framework templates
-- [quality-system.md](https://github.com/prompt2me/prompt2me/blob/main/Skills/Writing-skills/Essay-Driven-Online-Publishing/quality-system.md?download=1)  — 11-pass editorial system, common failure modes and fixes, final quality checklist, reusable prompt templates
+- [essay-architecture.md](https://github.com/prompt2me/prompt2me/blob/main/Skills/Writing-skills/Essay-Driven-Online-Publishing/essay-architecture.md?download=) — Full structural templates, opening patterns, thesis development, paragraph design, metaphor protocol, framework templates
+- [quality-system.md](https://github.com/prompt2me/prompt2me/blob/main/Skills/Writing-skills/Essay-Driven-Online-Publishing/quality-system.md?download=)  — 11-pass editorial system, common failure modes and fixes, final quality checklist, reusable prompt templates
 
 
 
