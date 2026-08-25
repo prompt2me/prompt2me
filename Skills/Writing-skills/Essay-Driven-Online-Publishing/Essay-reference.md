@@ -197,3 +197,10 @@ Further reading / Visual suggestion / Alt text
 
 - `references/essay-architecture.md` — Full structural templates, opening patterns, thesis development, paragraph design, metaphor protocol, framework templates
 - `references/quality-system.md` — 11-pass editorial system, common failure modes and fixes, final quality checklist, reusable prompt templates
+
+
+To convert a standard GitHub `raw` URL into a direct download link, you can add `?download=1` to the end of the URL.
+
+Here is your download link:
+
+* [Download Essay-reference.md](https://raw.githubusercontent.com/prompt2me/prompt2me/refs/heads/main/Skills/Writing-skills/Essay-Driven-Online-Publishing/Essay-reference.md?download=1)
