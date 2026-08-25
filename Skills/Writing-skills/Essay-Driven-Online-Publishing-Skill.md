@@ -8,6 +8,7 @@ The skill emphasizes intellectual independence, conversational clarity, and ever
 
 # Table of contents 
 
+[Overview](#Overview)
 - [Purpose](#purpose)
 - [Originality Boundary](#originality-boundary)
 - [Editorial Mission](#editorial-mission)
