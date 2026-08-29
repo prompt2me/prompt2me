@@ -3,7 +3,7 @@
 # Table of Contents
 
 ## Part One: The Foundation
-- <a href="#what-it-means-to-write-like-you-actually-think" style="color: #E67E22; text-decoration: none;">What It Means to Write Like You Actually Think</a>
+- <a href="#what-it-means-to-write-like-you-actually-think" style="color: ##000000; text-decoration: none;">What It Means to Write Like You Actually Think</a>
 - <a href="#what-the-skill-actually-tasks-you-with" style="color: #E67E22; text-decoration: none;">What the Skill Actually Tasks You With</a>
 - <a href="#why-writers-who-use-this-skill-write-differently-afterward" style="color: #E67E22; text-decoration: none;">Why Writers Who Use This Skill Write Differently Afterward</a>
 - <a href="#the-problem-it-solves" style="color: #E67E22; text-decoration: none;">The Problem It Solves</a>
