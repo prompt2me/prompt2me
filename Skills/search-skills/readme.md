@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/prompt2me/prompt2me/main/Skills/search-skills/Images/find.png" alt="Search-to-Find-All Skill">
+<img src="https://github.com/prompt2me/prompt2me/blob/main/Skills/search-skills/images/find.png" alt="Search-to-Find-All Skill">
 
 # Search-to-Find-All Skill — README
 
