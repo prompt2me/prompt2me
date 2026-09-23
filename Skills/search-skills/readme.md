@@ -201,5 +201,5 @@ ______________________________________________________________________
 ## Support
 
 For modifications, extensions, or integration into larger workflows (e.g., newsletters, slide decks, interactive reports), treat this skill as a modular research engine. Pair it with verification, summarization, or visualization skills as needed.
-[Download Search-to-Find-All Skill](https://raw.githubusercontent.com/prompt2me/prompt2me/main/Skills/search-skills/search-to-find-all.md)
+[Download Search-to-Find-All Skill](https://github.com/prompt2me/prompt2me/blob/main/Skills/search-skills/search-to-find-all.md)
 
