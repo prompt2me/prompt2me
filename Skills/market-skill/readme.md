@@ -1,3 +1,4 @@
+<img src="https://github.com/prompt2me/prompt2me/blob/main/Skills/market-skill/images/search.png" alt="Searching-market Skill">
 # Researching Markets: An Institutional Market Research Skill for Claude
 
 ## What It Is
