@@ -90,3 +90,4 @@ Without this skill, asking an LLM for market sizing tends to produce a confident
 ## A Note on Limits
 
 The skill is explicit that its regulatory analysis is **not legal advice**, and it deliberately preserves unresolved contradictions rather than resolving them by fiat. Its output is only as strong as what's publicly retrievable in a given session — for genuinely obscure or paywalled markets, more of the report will honestly land in `Assumption` or `Unknown` territory, which is by design: a report that admits what it doesn't know is more useful than one that quietly fills the gap with something plausible.
+[download the skill](https://github.com/prompt2me/prompt2me/blob/main/Skills/market-skill/researching-markets.skill)
