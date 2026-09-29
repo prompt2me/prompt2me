@@ -1,6 +1,8 @@
 ---
 name: traffic-to-leads-architect
 description: Use this skill when the user wants to turn website traffic into qualified leads, design or audit lead-capture systems, or apply a comprehensive conversion framework to their site, content, or campaigns. This skill makes Claude act as a conversion architect who systematically transforms visitors into leads using eight core levers.
+author : prompt2me 
+version : 1.0.0
 ---
 
 # Traffic-to-Leads Conversion Architect Skill
