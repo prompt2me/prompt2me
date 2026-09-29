@@ -181,4 +181,5 @@ After the initial response, continue with focused requests such as:
 **Pro tip:** Start with your business type, primary goal, traffic level, and biggest conversion gap. The skill can then follow this workflow automatically:
 
 **Context Summary → Audit → System Design → Priorities → Measurement**
+[Download the Trafics-To-Leads Skill](https://github.com/prompt2me/prompt2me/blob/main/Skills/Trafics-skill/traffic-to-leads-architect.md)
 
