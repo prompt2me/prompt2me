@@ -1,4 +1,4 @@
-<img src="https://github.com/prompt2me/prompt2me/blob/main/Skills/trafics-skill/images/leads.png" alt="Trafics-To-Trafics-To-Leads Skill">
+<img src="https://github.com/prompt2me/prompt2me/blob/main/Skills/Trafics-skill/images/leads.png" alt="Trafics-To-Trafics-To-Leads Skill">
 
 
 # Traffic-to-Leads Conversion Architect Skill
