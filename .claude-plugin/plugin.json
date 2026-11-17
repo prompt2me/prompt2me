@@ -20,7 +20,8 @@
     "productivity"
   ],
   "skills": [
-    "./prompt2me/Skills/journalism-skills/tech-power-journalism",    
- "./prompt2me/Skills/Claude-project-learning-coach"
+"./prompt2me/Skills/journalism-skills/tech-power-journalism",    
+ "./prompt2me/Skills/Claude-project-learning-coach",
+  "./prompt2me/Skills/search-skills"
   ]
 }
