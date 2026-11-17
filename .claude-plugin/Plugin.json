@@ -1,0 +1,26 @@
+
+{
+  "name": "prompt2me-skills",
+  "version": "1.3.2",
+  "description": "prompt2me's agent skills for real engineering: grilling, spec/ticket flows, TDD, code review, domain modelling and more. Plug-and-play, not vibe coding.",
+  "author": {
+    "name": "prompt2me",
+    "url": ""
+  },
+  "homepage": "",
+  "repository": "https://github.com/prompt2me/prompt2me",
+  "license": "MIT",
+  "keywords": [
+    "journalism-skills",
+    "skills",
+    "tdd",
+    "code-review",
+    "grilling",
+    "domain-modeling",
+    "productivity"
+  ],
+  "skills": [
+    "./skills/journalism-skills/tech-power-journalism",    
+ "./skills/productivity/writing-for-agents"
+  ]
+}
