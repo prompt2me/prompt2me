@@ -1,0 +1,11 @@
+{
+  "name": "prompt2me",
+  "owner": { "name": "PrompttMe" },
+  "plugins": [
+    {
+      "name": "my-first-plugin",
+      "source": "./plugins/my-first-plugin",
+      "description": "Short description of what it does"
+    }
+  ]
+}
