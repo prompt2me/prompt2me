@@ -20,7 +20,7 @@
     "productivity"
   ],
   "skills": [
-    "./skills/journalism-skills/tech-power-journalism",    
- "./skills/productivity/writing-for-agents"
+    "./prompt2me/Skills/journalism-skills/tech-power-journalism",    
+ "./prompt2me/Skills/productivity/writing-for-agents"
   ]
 }
