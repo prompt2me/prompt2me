@@ -1,0 +1,8 @@
+{
+  "name": "starter-plugin",
+  "description": "Starter plugin with an example skill. Replace with your own skills.",
+  "version": "0.1.0",
+  "author": {
+    "name": "PrompttMe"
+  }
+}

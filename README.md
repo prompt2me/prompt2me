@@ -2,7 +2,7 @@
 
 > Exploring AI, transforming ideas into practical knowledge, and building better ways to create, learn, research, and work with artificial intelligence.
 
-## About
+## About 
 
 I’m an **AI content creator and strategist** focused on exploring how artificial intelligence can transform creativity, learning, research, and productivity.
 
