@@ -1,11 +1,24 @@
+
 {
   "name": "prompt2me",
-  "owner": { "name": "PrompttMe" },
+  "owner": {
+    "name": "prompt2me",
+    "url": ""
+  },
+  "description": "prompt2me's skills for real engineering, as an installable Claude Code plugin.",
   "plugins": [
     {
-      "name": "my-first-plugin",
-      "source": "./plugins/my-first-plugin",
-      "description": "Short description of what it does"
+      "name": "prompt2me-skills",
+      "source": "./",
+      "description": "prompt2me's agent skills for real engineering (grilling, spec/ticket flows, TDD, code review, domain modelling and more).",
+      "category": "journalism-skills",
+      "keywords": [
+        "engineering",
+        "skills",
+        "tdd",
+        "code-review",
+        "grilling"
+      ]
     }
   ]
 }
